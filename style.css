@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --Lime-green: hsl(145, 58%, 55%);
+}
+
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
